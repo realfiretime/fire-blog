@@ -185,6 +185,20 @@ we can use 3 backticks ``` in new line and write snippet and close with 3 backti
   - Milk
   - Cheese
 
+## Links
+
+### Syntax
+
+
+```markdown
+[Link text Here](https://link-url-here.org)
+```
+### Output
+
+[Link text Here](https://link-url-here.org)
+
+
+
 ## Other Elements — abbr, sub, sup, kbd, mark
 
 ### Syntax
