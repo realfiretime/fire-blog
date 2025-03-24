@@ -19,7 +19,7 @@ Well ... as many of you knowi have one to many sites. good thing they are all li
 | Wiki               | The Wiki                    | [wiki.firetime.me](https://wiki.firetime.me)                                                 
 | forums - SOON      | FireTime Forums             | [forums.firetime.me](https://forums.firetime.me)                                             |
 | shop               | get merch                   | [shop.firetime.me](https://shop.firetime.me)                                                 |
-| status - SOON      | Whats The Status?           | [status.firetime.me](https://status.firetime.me)                                             |
+| status             | Whats The Status?           | [status.firetime.me](https://status.firetime.me)                                             |
 | Visualist - SOON   | design library              | [visualist.firetime.me](https://visualist.firetime.me)                                       |
 | YouTube            | YT Channle                  | [@firetime.official](https://youtube.com/@firetime.official)                                 |
 | Twitch             | Twitch channle              | [firetimeofficial](https://twitch.tv/firetimeofficial)                                       |
