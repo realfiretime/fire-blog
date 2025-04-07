@@ -24,5 +24,6 @@ Well ... as many of you know i have one to many sites. good thing they are all l
 | YouTube            | YT Channle                  | [@firetime.official](https://youtube.com/@firetime.official)                                                                                            |
 | Twitch             | Twitch channle              | [firetimeofficial](https://twitch.tv/firetimeofficial)                                                                                                  |
 | Spotify            | Horrible music              | [firetime](https://open.spotify.com/artist/1dav6Y0oeLxQyDyByHUfBy?si=EDtncBfeSheEe7bfEASfRQ)                                                            |
-| Docs               | Just Info                   | [docs.firetime.me](https://docs.firetime.me)                                                                                                                            |
+| Docs               | Just Info                   | [docs.firetime.me](https://docs.firetime.me)                                                                                                            |
 | whiteboard         | what it says                | [whiteboard.firetime.me](https://whiteboard.firetime.me) both sites go to same place, just difrent names [board.firetime.me](https://board.firetime.me) |
+| Search             | A New search engine         | [search.firetime.me](https://search.firetime.me)                                                                                                                          | 
