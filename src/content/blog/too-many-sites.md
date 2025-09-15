@@ -1,7 +1,7 @@
 ---
-title: 'Too Many Sites!'
-description: 'thats too many to count'
-pubDate: 'Jul 15 2024'
+title: 'Sites Directory'
+description: 'thats too many sites to count'
+pubDate: 'Sep 15 2025'
 heroImage: '/blog-placeholder-4.jpg'
 ---
 
@@ -26,5 +26,6 @@ Well ... as many of you know i have one to many sites. good thing they are all l
 | Docs               | Just Info                   | [docs.firetime.me](https://docs.firetime.me)                                                                                                            |
 | whiteboard         | what it says                | [whiteboard.firetime.me](https://whiteboard.firetime.me) both sites go to same place, just difrent names [board.firetime.me](https://board.firetime.me) |
 | Updates            | All The Updates in one place | [update.firetime.me](https://update.firetime.me) or  [updates.firetime.me](https://updates.firetime.me)
+|  Homepage          |  Cool cutomisable homepage   | [home.firetime.me](https://home.firetime.me)                           |
 | search  *DOESENT WORK*| a new search engine       | [search.firetime.me](https://search.firetime.me)           
 | github             |         just git           |[realfiretime](https://github.com/realfiretime)
