@@ -10,9 +10,7 @@ Well ... as many of you know i have one to many sites. good thing they are all l
 
 --
 | Notes              | A Notes App I Made          | [notes.firetime.me](https://notes.firetime)
-|
 | Password Generator | What the name suggests      | [password.firetime.me](https://password.firetime.me)
-|
 | main site          | the site your on            | [firetime.me](https://firetime.me) 
 |
 | Wiki               | The Wiki                    | [wiki.firetime.me](https://wiki.firetime.me)
