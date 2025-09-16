@@ -8,7 +8,7 @@ heroImage: '/blog-placeholder-4.jpg'
 Well ... as many of you know i have one to many sites. good thing they are all listed right here!
 
 
-
+---
 | Notes              | A Notes App I Made          | [notes.firetime.me](https://notes.firetime)
 | Password Generator | What the name suggests      | [password.firetime.me](https://password.firetime.me)
 | main site          | the site your on            | [firetime.me](https://firetime.me) 
@@ -27,3 +27,4 @@ Well ... as many of you know i have one to many sites. good thing they are all l
 | search  *DOESENT WORK*| a new search engine       | [search.firetime.me](https://search.firetime.me)
 | github             |         just git             |[realfiretime](https://github.com/realfiretime)
 |Unsplash            | why not                      | [@firetime](https://unsplash.com/@firetime)
+---
