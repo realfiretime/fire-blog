@@ -6,6 +6,6 @@ heroImage: '/blog-placeholder-3.jpg'
 ---
 
 Yes everyone. after a year, its back.
-My firetime merch store is back [shop.firetime.me](htttps://shop.firetime.me)
+My firetime merch store is back [shop.firetime.me](https://shop.firetime.me)
 That and i now have a Ko-Fi,[ko-fi.com/firetime_](https://ko-fi.com/firetime_). you can support me at either! or both. doesent matter
 anyways, See ya. next vid comming soooooooooon!
