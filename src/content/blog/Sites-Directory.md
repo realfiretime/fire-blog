@@ -47,4 +47,6 @@ to same place, just difrent names [board.firetime.me](https://board.firetime.me)
 | github             |         just git             |[realfiretime](https://github.com/realfiretime)
 |
 |Unsplash            | why not                      | [@firetime](https://unsplash.com/@firetime)
+|Ko-Fi               | Support me here!             | [firetime_](https://ko-fi.com/firetime_)
+
 ---
