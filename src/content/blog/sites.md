@@ -22,8 +22,8 @@ Well ... as many of you know i have one to many sites. good thing they are all l
 | Twitch             | Twitch channle              | [firetimeofficial](https://twitch.tv/firetimeofficial)|
 | Spotify            | Horrible music              | [firetime](https://open.spotify.com/artist/1dav6Y0oeLxQyDyByHUfBysi=EDtncBfeSheEe7bfEASfRQ)|
 | Docs               | Just Info                   | [docs.firetime.me](https://docs.firetime.me)|
-| whiteboard         | what it says                | [whiteboard.firetime.me](https://whiteboard.firetime.me)_[board.firetime.me](https://board.firetime.me)|
-| Updates            | All The Updates in one place | [update.firetime.me](https://update.firetime.me)_[updates.firetime.me](https://updates.firetime.me)|
+| whiteboard         | what it says                | [whiteboard.firetime.me](https://whiteboard.firetime.me) &[board.firetime.me](https://board.firetime.me)|
+| Updates            | All The Updates in one place | [update.firetime.me](https://update.firetime.me) & [updates.firetime.me](https://updates.firetime.me)|
 |  Homepage          |  Cool cutomisable homepage   | [home.firetime.me](https://home.firetime.me)|
 | search  *DOESENT WORK*| a new search engine       | [search.firetime.me](https://search.firetime.me)|
 | github             |         just git             |[realfiretime](https://github.com/realfiretime)|
