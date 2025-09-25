@@ -8,14 +8,11 @@ heroImage: '/blog-placeholder-4.jpg'
 Well ... as many of you know i have one to many sites. good thing they are all listed right here!
 
 
-Notes - A Notes App I Made - [notes.firetime.me](https://notes.firetime) ---------
-Password Generator - What the name suggests - [password.firetime.me](https://password.firetime.me) -----
-|
-| main site         | the site your on            | [firetime.me](https://firetime.me) 
-|
-| Wiki               | The Wiki                    | [wiki.firetime.me](https://wiki.firetime.me)
-|
-| forums - SOON      | FireTime Forums             | [forums.firetime.me](https://forums.firetime.me)
+Notes - A Notes App I Made - [notes.firetime.me](https://notes.firetime)------------------------------------------------------
+Password Generator - What the name suggests - [password.firetime.me](https://password.firetime.me)----------------------------
+main site - the site your on - [firetime.me](https://firetime.me)-------------------------------------------------------------
+Wiki - The Wiki - [wiki.firetime.me](https://wiki.firetime.me)----------------------------------------------------------------
+forums - SOON - FireTime Forums - [forums.firetime.me](https://forums.firetime.me)--------------------------------------------
 |
 | shop               | get merch                   | [shop.firetime.me](https://shop.firetime.me)
 |
