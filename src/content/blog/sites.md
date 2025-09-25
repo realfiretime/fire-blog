@@ -8,6 +8,11 @@ heroImage: '/blog-placeholder-4.jpg'
 Well ... as many of you know i have one to many sites. good thing they are all listed right here!
 
 
+| Notes     | Notes app|[notes.firetime.me](https://notes.firetime)|
+| --------- | -------- | ------ |
+|Password generator|what the name suggests|[password.firetime.me](https://password.firetime.me)|
+
+
 Notes - A Notes App I Made - [notes.firetime.me](https://notes.firetime)___
 Password Generator - What the name suggests - [password.firetime.me](https://password.firetime.me)___
 main site - the site your on - [firetime.me](https://firetime.me)____
