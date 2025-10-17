@@ -3,3 +3,4 @@
 
 export const SITE_TITLE = 'FireTime';
 export const SITE_DESCRIPTION = 'Hey There';
+export const SITE_MEANING = 'none';
