@@ -11,6 +11,6 @@ export default defineConfig({
 		'/sites': '/blog/sites',
 		'/sites-directory': '/blog/sites',
 		'/yt': 'https://youtube.com/@firetime.official'
-		'/roadmap': '/blog/roadmap',
+		'/roadmap': 'https://firetime.me/blog/roadmap',
   },
 });
