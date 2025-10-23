@@ -8,7 +8,9 @@ export default defineConfig({
 	site: 'https://firetime.me',
 	integrations: [mdx(), sitemap()],
 	redirects: {
-		'/sites': 'https://firetime.me/blog/sites',
+		'/sites': '/blog/sites',
 		'/sites-directory': '/blog/sites',
+		'/yt': 'https://youtube.com/@firetime.official'
+		'/roadmap': '/blog/roadmap',
   },
 });
