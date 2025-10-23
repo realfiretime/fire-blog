@@ -7,4 +7,8 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
 	site: 'https://firetime.me',
 	integrations: [mdx(), sitemap()],
+	redirects: {
+	'/sites': 'https://firetime.me/blog/sites'
+	'/sites-directory': '/blog/sites'
+  },
 });
