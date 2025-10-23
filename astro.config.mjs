@@ -10,7 +10,7 @@ export default defineConfig({
 	redirects: {
 		'/sites': '/blog/sites',
 		'/sites-directory': '/blog/sites',
-		'/yt': 'https://youtube.com/@firetime.official'
-		'/roadmap': 'https://firetime.me/blog/roadmap',
+		'/yt': 'https://youtube.com/@firetime.official',
+		'/roadmap': '/blog/roadmap',
   },
 });
