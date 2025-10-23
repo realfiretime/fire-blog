@@ -12,5 +12,6 @@ export default defineConfig({
 		'/sites-directory': '/blog/sites',
 		'/yt': 'https://youtube.com/@firetime.official',
 		'/roadmap': '/blog/roadmap',
+		'/hi': '/404',
   },
 });
