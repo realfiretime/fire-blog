@@ -13,5 +13,6 @@ export default defineConfig({
 		'/yt': 'https://youtube.com/@firetime.official',
 		'/roadmap': '/blog/roadmap',
 		'/hi': '/404',
+		'/candy': 'https://candy.firetime.me',
   },
 });
