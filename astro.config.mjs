@@ -14,5 +14,6 @@ export default defineConfig({
 		'/roadmap': '/blog/roadmap',
 		'/hi': '/404',
 		'/candy': 'https://candy.firetime.me',
-  },
+  		'/ftar': 'https://ftar.firetime.me'
+	},
 });
