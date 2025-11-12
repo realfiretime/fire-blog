@@ -1,4 +1,5 @@
 ---
+import { ClientRouter, fade, slide } from 'astro:transitions';
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
@@ -10,6 +11,8 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 	<head>
 		<BaseHead title={ SITE_TITLE } description={SITE_DESCRIPTION} />
 	</head>
+	<div transition:animate="slide" />
+	<div transition:animate={slide({ duration: '0.4s' })} />
 	<body>
 		<Header />
 		<main>
@@ -35,7 +38,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 			<p>
 				
 			</p>
-		
+
 		<div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
