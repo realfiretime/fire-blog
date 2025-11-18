@@ -9,13 +9,20 @@ heroImage: '/blog-placeholder-3.jpg'
 hey, this is a test page. im just checking if stuff loads. carry on with your day now
 
 
-dumpster fire
+Font Awesome dumpster fire
 <i class="fa-duotone fa-solid fa-dumpster-fire"></i>
 
-colored dumpster fire
+FA colored dumpster fire
 <i class="fa-duotone fa-solid fa-dumpster-fire" style="--fa-primary-color: #ff4013; --fa-secondary-color: #000000;"></i>
 
-spinning colored dumpster fire
+FA spinning colored dumpster fire
 <i class="fa-duotone fa-solid fa-dumpster-fire fa-spin" style="--fa-primary-color: #ff4013; --fa-secondary-color: #000000;"></i>
 
-lucide color brick wall <i class="fa-kit fa-lucite-brick-wall-fire" style="color: #e32400;"></i> (yes i copied and pasted the SVG into font awesome from lucide)
+FA lucide color brick wall <i class="fa-kit fa-lucite-brick-wall-fire" style="color: #e32400;"></i> (yes i copied and pasted the SVG into font awesome from lucide)
+
+Web Awesome
+<wa-button variant="neutral">Neutral</wa-button>
+<wa-button variant="brand">Brand</wa-button>
+<wa-button variant="success">Success</wa-button>
+<wa-button variant="warning">Warning</wa-button>
+<wa-button variant="danger">Danger</wa-button>
