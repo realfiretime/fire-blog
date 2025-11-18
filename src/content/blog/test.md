@@ -7,11 +7,11 @@ heroImage: '/blog-placeholder-3.jpg'
 
 
 hey, this is a test page. im just checking if stuff loads. carry on with your day now
-
+<pre>
 FA = Font Awesome
 WA = Web Awesome
 yes, they are made by the same people
-
+</pre>
 FA dumpster fire
 <i class="fa-duotone fa-solid fa-dumpster-fire"></i>
 
