@@ -60,4 +60,10 @@ WA / FA Rating
 WA progress bar
 <wa-progress-bar indeterminate></wa-progress-bar>
 
-
+shoelace button
+<sl-button variant="default">Default</sl-button>
+<sl-button variant="primary">Primary</sl-button>
+<sl-button variant="success">Success</sl-button>
+<sl-button variant="neutral">Neutral</sl-button>
+<sl-button variant="warning">Warning</sl-button>
+<sl-button variant="danger">Danger</sl-button>
