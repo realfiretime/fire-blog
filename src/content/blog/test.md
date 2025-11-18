@@ -8,8 +8,11 @@ heroImage: '/blog-placeholder-3.jpg'
 
 hey, this is a test page. im just checking if stuff loads. carry on with your day now
 
+FA = Font Awesome
+WA = Web Awesome
+yes, they are made by the same people
 
-Font Awesome dumpster fire
+FA dumpster fire
 <i class="fa-duotone fa-solid fa-dumpster-fire"></i>
 
 FA colored dumpster fire
@@ -20,7 +23,7 @@ FA spinning colored dumpster fire
 
 FA lucide color brick wall <i class="fa-kit fa-lucite-brick-wall-fire" style="color: #e32400;"></i> (yes i copied and pasted the SVG into font awesome from lucide)
 
-Web Awesome
+WA Button
 <wa-button variant="neutral">Neutral</wa-button>
 <wa-button variant="brand">Brand</wa-button>
 <wa-button variant="success">Success</wa-button>
