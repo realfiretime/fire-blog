@@ -57,4 +57,7 @@ WA / FA Rating
   rating.getSymbol = () => '<wa-icon name="fire" variant="duotone"></wa-icon>';
 </script>
 
+WA progress bar
+<wa-progress-bar indeterminate></wa-progress-bar>
+
 
