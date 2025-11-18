@@ -17,3 +17,5 @@ colored dumpster fire
 
 spinning colored dumpster fire
 <i class="fa-duotone fa-solid fa-dumpster-fire fa-spin" style="--fa-primary-color: #ff4013; --fa-secondary-color: #000000;"></i>
+
+lucide color brick wall <i class="fa-kit fa-lucite-brick-wall-fire" style="color: #e32400;"></i> (yes i copied and pasted the SVG into font awesome from lucide)
