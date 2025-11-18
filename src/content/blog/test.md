@@ -29,3 +29,19 @@ WA Button
 <wa-button variant="success">Success</wa-button>
 <wa-button variant="warning">Warning</wa-button>
 <wa-button variant="danger">Danger</wa-button>
+
+WA drawer
+<wa-drawer label="Drawer" id="drawer-overview">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  <wa-button slot="footer" variant="brand" data-drawer="close">Close</wa-button>
+</wa-drawer>
+
+<wa-button>Open Drawer</wa-button>
+
+<script>
+  const drawer = document.querySelector('#drawer-overview');
+  const openButton = drawer.nextElementSibling;
+
+  openButton.addEventListener('click', () => (drawer.open = true));
+</script>
+
