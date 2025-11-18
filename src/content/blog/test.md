@@ -45,3 +45,16 @@ WA drawer
   openButton.addEventListener('click', () => (drawer.open = true));
 </script>
 
+WA / FA Rating
+<wa-rating label="Rating" class="rating-hearts" style="--symbol-color-active: #ff4136;"></wa-rating>
+
+<script type="module">
+  const rating = document.querySelector('.rating-hearts');
+
+  await customElements.whenDefined('wa-rating');
+  await rating.updateComplete;
+
+  rating.getSymbol = () => '<wa-icon name="fire" variant="duotone"></wa-icon>';
+</script>
+
+
