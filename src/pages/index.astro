@@ -4,9 +4,6 @@ import { ClientRouter } from "astro:transitions";
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import '@material/web/button/filled-button.js';
-import '@material/web/button/outlined-button.js';
-import '@material/web/checkbox/checkbox.js';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
 <!doctype html>
@@ -38,16 +35,6 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 				<li> <code>SITE MADE BY FIRETIME</code></li>
 				<li> <code>src/content/none</code></li>
 			</ul>
-			
-			<script type="module" src="./index.js"></script>
-			
-			<label>
- 			 Material 3
-  			<md-checkbox checked></md-checkbox>
-			</label>
-
-			<md-outlined-button>Back</md-outlined-button>
-			<md-filled-button>Next</md-filled-button>
 
 		<div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
