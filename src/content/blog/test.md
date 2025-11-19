@@ -10,7 +10,7 @@ hey, this is a test page. im just checking if stuff loads. carry on with your da
 <pre>
 FA = Font Awesome
 WA = Web Awesome
-yes, they are made by the same people
+SL = Shoelace
 </pre>
 FA dumpster fire
 <i class="fa-duotone fa-solid fa-dumpster-fire"></i>
@@ -22,6 +22,9 @@ FA spinning colored dumpster fire
 <i class="fa-duotone fa-solid fa-dumpster-fire fa-spin" style="--fa-primary-color: #ff4013; --fa-secondary-color: #000000;"></i>
 
 FA lucide color brick wall <i class="fa-kit fa-lucite-brick-wall-fire" style="color: #e32400;"></i> (yes i copied and pasted the SVG into font awesome from lucide)
+
+FA Cube
+<i class="fa-solid fa-cube fa-2xl" style="color: #ffa200;"></i>
 
 WA Button
 <wa-button variant="neutral">Neutral</wa-button>
@@ -57,10 +60,13 @@ WA / FA Rating
   rating.getSymbol = () => '<wa-icon name="fire" variant="duotone"></wa-icon>';
 </script>
 
+WA / FA cube
+<wa-icon name="cube" style="font-size: 2em; color: #ffa200;"></wa-icon>
+
 WA progress bar
 <wa-progress-bar indeterminate></wa-progress-bar>
 
-shoelace button
+SL button
 <sl-button variant="default">Default</sl-button>
 <sl-button variant="primary">Primary</sl-button>
 <sl-button variant="success">Success</sl-button>
