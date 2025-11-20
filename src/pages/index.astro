@@ -36,7 +36,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 				<li> <code>src/content/none</code></li>
 			</ul>
 
-			<sl-dialog label="Dialog" class="dialog-overview">
+			<sl-dialog label="Hey there!" class="dialog-overview">
 			  If your wondering what this website is, I dont really know. lisen, i made this site for fun and now i have font awesome icons, web awesome and shoelace componets everywhere, so please dont ask me why
 			  <sl-button slot="footer" variant="warning" size="small" pill>Close</sl-button>
 			</sl-dialog>
@@ -52,10 +52,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 			  closeButton.addEventListener('click', () => dialog.hide());
 			</script>
 
-
-		
-			<sl-dialog label="Dialog" class="dialog-overview">
-						 <div id="mc_embed_shell">
+				<div id="mc_embed_shell">
   			   	 <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
 				  <style type="text/css">
 			       	 #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
@@ -84,19 +81,6 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 				</div>
 				<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='COMPANY';ftypes[6]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
 
-			  <sl-button slot="footer" variant="warning" size="small" pill>Close</sl-button>
-			</sl-dialog>
-
-			<sl-button variant="warning" size="large" pill>Sign up for the mailing list</sl-button>
-
-			<script>
-			  const dialog = document.querySelector('.dialog-overview');
-			  const openButton = dialog.nextElementSibling;
-			  const closeButton = dialog.querySelector('sl-button[slot="footer"]');
-
-			  openButton.addEventListener('click', () => dialog.show());
-			  closeButton.addEventListener('click', () => dialog.hide());
-			</script>
 
 		</main>
 		<Footer />
