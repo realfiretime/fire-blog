@@ -76,5 +76,26 @@ SL button
 
   openButton.addEventListener('click', () => dialog.show());
   closeButton.addEventListener('click', () => dialog.hide());
+
+
+SL Custom video
+<sl-animated-image
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt0cTI4NHRyZnc0enlkY3lqa3Rib3FlYThucjZoaDlrYWtqa2VpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yH8nTIsmdQnIaQWw8P/giphy.gif"
+alt="I dont know"
+class="animated-image-custom-control-box"
+></sl-animated-image>
+
+<style>
+  .animated-image-custom-control-box::part(control-box) {
+    top: auto;
+    right: auto;
+    bottom: 1rem;
+    left: 1rem;
+    background-color: deeppink;
+    border: orange;
+    color: orange;
+  }
+</style>
+
 </script>
 
